@@ -1,2 +1,3 @@
+## Walmart sales forecasting project
 An advanced end-to-end Time Series Forecasting project designed to predict weekly retail sales across multiple store locations. By leveraging deep learning (PyTorch's Temporal Fusion Transformer) and robust feature engineering (XGBoost), this project processes historical sales data alongside macroeconomic indicators (CPI, Unemployment, Fuel Prices) to deliver highly accurate multi-horizon forecasts.
 Il ya deux fichiers readme, un pour mon travail avec TFT et l'autre pour mon travail avec XGBoost
